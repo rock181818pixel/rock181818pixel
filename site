@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <title>jeux scratch</title>
+    <link rel="stylesheet" href="jeux.css"></head>
+<body>
+    <p>version 1</p>
+   <h1>jeux scratch</h1>
+<nav>
+  <ul>
+   <li class="deroulant"><a href="acceuil.html">acceuil</a>
+      <ul class="sous">
+        <li><a href="musique.html">musique</a></li>
+        <li><a href="scratch.html">scratch</a></li>
+        <li><a href="foe.html">foe</a></li>
+      </ul>
+    </li>
+    <li><a href="musique.html">musique</a></li>
+    <li><a href="scratch.html">scratch</a></li>
+    <li><a href="foe.html">foe</a></li>
+  </ul>
+</nav>
+
+
+ 
+    <p>avion simulator</p>
+<iframe src="https://scratch.mit.edu/projects/74221074/embed" allowtransparency="true" width="685" height="602" frameborder="0" scrolling="no" allowfullscreen></iframe><iframe width="579" height="498" src="https://www.youtube.com/embed/j8mzpIXV6g4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><div class="avion">commande:<br> S pour accelerer<br> X pour ralentir<br> R pour tirer un misile<br>W pour rentrer les rout<br> C pour changer de vue </div>
+<iframe src="https://scratch.mit.edu/projects/152783466/embed" allowtransparency="true" width="685" height="602" frameborder="0" scrolling="no" allowfullscreen></iframe><iframe width="658" height="498" src="https://www.youtube.com/embed/ZAFF-ENqFDY" title="YouTube video player"  height="498" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://scratch.mit.edu/projects/496665064/embed" allowtransparency="true" width="685" height="602" frameborder="0" scrolling="no" allowfullscreen></iframe>
+
+
+
+</body>
+</html>
